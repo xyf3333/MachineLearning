@@ -1,2 +1,0 @@
-# MachineLearning
-Projects of ML
