@@ -1,0 +1,10 @@
+The housing market has always been a topic of attention. For a person or a family, a home is
+usually the largest purchase. Not only buyers and owners concern to house value, but also people
+who outside housing market pay attention to monitoring real estate asset. There is high demand
+for a trusted way of estimating house value. Zillow is an online real estate database company.
+The (1) Zestimate® home value is Zillow's estimated market value for an individual home and is
+calculated for about 100 million homes nationwide. Zillow provide a full list of real estate
+properties in three counties data.
+Machine learning technology can predict house value through building a model or algorithm for
+special dataset. It includes several methods. Estimating house value could do better using
+machine learning technology.
