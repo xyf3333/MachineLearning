@@ -1,0 +1,8 @@
+## Project: Build a Digit Recognition Program
+
+## Project Overview
+
+In this project, I will use what you've learned about deep neural networks and convolutional neural networks to create 
+program that prints numbers it observes in real time from images it is given. First, I will design and test a model architecture 
+that can identify sequences of digits in an image.  After the model is properly trained, you will then test your model using 
+newly-captured images. 
